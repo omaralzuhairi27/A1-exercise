@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/newaustriancodingschool/i4-configuration
+          uri: https://github.com/omaralzuhairi27/configuration-yml
 management:
   endpoints:
     web:

@@ -1,0 +1,5 @@
+dataset:
+  ping:
+    id: 123abc
+    message: PING
+    timeStempel: 2019-08-06 20:48:36.542
